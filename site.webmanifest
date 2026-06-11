@@ -1,0 +1,14 @@
+{
+  "name": "Medad Advertising Requisites L.L.C",
+  "short_name": "Medad",
+  "description": "Digital printing, signage and advertising solutions in Dubai, UAE.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#383E8F",
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    { "src": "/assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
